@@ -24,3 +24,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charith-01&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sameer's Top Languages">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charith-01" alt="charith-01" /></a> </p>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
