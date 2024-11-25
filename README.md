@@ -14,6 +14,8 @@
 
 - 🌱 I’m currently learning Java
 
+- 🎓 I’m an Undergraduate at SLIIT
+
 - 💬 Ask me about Web Development
 
 - 📫 How to reach me charithlakshan97@gmail.com
