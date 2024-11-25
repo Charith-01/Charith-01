@@ -1,5 +1,6 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Charith Lakshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
+![giphy](https://github.com/user-attachments/assets/1bf11ec4-ac33-4b0d-a940-a909b2a1983a)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charith-01&label=Profile%20views&color=0e75b6&style=flat" alt="charith-01" /> </p>
 
