@@ -1,14 +1,10 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Charith Lakshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
-![giphy](https://github.com/user-attachments/assets/1bf11ec4-ac33-4b0d-a940-a909b2a1983a)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charith-01&label=Profile%20views&color=0e75b6&style=flat" alt="charith-01" /> </p>
 
 <p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-
-Welcome to My GitHub Profile!
-I am a second-year undergraduate student at SLIIT, passionate about exploring and experimenting with technology. Here, you will find a collection of projects that reflect my journey, including web development, Java programming, and much more.
+<img src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp" width="300" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
