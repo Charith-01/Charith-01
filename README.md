@@ -3,8 +3,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charith-01&label=Profile%20views&color=0e75b6&style=flat" alt="charith-01" /> </p>
 
+<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=720&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Sri+Lanka"></h3>
+
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/af77f6a9-b4b9-4289-90b9-57ae7337021e" width="300" height="250" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+</p>
 
 <h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
