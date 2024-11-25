@@ -1,3 +1,5 @@
+![1](https://github.com/user-attachments/assets/704d4c0b-a17e-4538-9e98-67f9fee88ec5)
+
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Charith Lakshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
 
