@@ -9,7 +9,7 @@
 Welcome to My GitHub Profile!
 I am a second-year undergraduate student at SLIIT, passionate about exploring and experimenting with technology. Here, you will find a collection of projects that reflect my journey, including web development, Java programming, and much more.
 
-## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"><h3 align="left">About me:</h3>
+<h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 🌱 I’m currently learning Java
