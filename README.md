@@ -8,7 +8,7 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=720&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Sri+Lanka"></h3>
 
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/ac1069ff-d611-491c-8ded-e0d79e2361ae" width="398" height="273" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="350" height="350" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 </p>
 
 <h3 align="left">About me:</h3>
