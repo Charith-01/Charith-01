@@ -42,10 +42,12 @@
 </p>
 <br>
 
-<a href="https://github.com/sanjay-kv">
-   <img height="155em" src="https://raw.githubusercontent.com/sanjay-kv/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Sanjay K V github stats" />
-    <img height="155em" src="https://raw.githubusercontent.com/sanjayviswa/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Sanjay K V github stats" />
+<a href="https://github.com/Charith-01">
+  <img height="155em" src="https://raw.githubusercontent.com/Charith-01/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Charith GitHub Profile Details" />
+  <img height="155em" src="https://raw.githubusercontent.com/Charith-01/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Charith GitHub Stats" />
+</a>
 <br>
+
 
 <!--- stats & Trophy (start) -->
 <p align="center">
