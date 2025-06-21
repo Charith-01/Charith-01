@@ -25,7 +25,7 @@
 <h3 align="left">Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;'>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://badgr.com/public/assertions/4mL2m9QYQC-al832vETmGw?identity__email=sanjay.kanakkotviswanathan@students.mq.edu.auhttps://api.badgr.io/public/assertions/EohJjjVSSoGH1w1-a7GaIA?identity__email=it23841086%40my.sliit.lk">
+<a href="https://api.badgr.io/public/assertions/EohJjjVSSoGH1w1-a7GaIA?identity__email=it23841086%40my.sliit.lk">
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
 </div>
 
