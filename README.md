@@ -42,19 +42,14 @@
 </p>
 <br>
 
-<a href="https://github.com/Charith-01">
-  <img height="155em" src="https://raw.githubusercontent.com/Charith-01/github-card-template/master/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Charith GitHub Profile Details" />
-  <img height="155em" src="https://raw.githubusercontent.com/Charith-01/github-card-template/master/profile-summary-card-output/github_dark/3-stats.svg" alt="Charith GitHub Stats" />
-</a>
-<br>
-
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
+
+  ![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/0-profile-details.svg)
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Charith-01&theme=dark&show_icons=true&count_private=true" />
   <br></br>
