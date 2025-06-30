@@ -14,13 +14,13 @@
 <h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
--  🌱 I’m currently learning MERN
+-  🌱 I’m currently learning <b>MERN</b>
 
-- 🎓 I’m an Undergraduate at SLIIT
+- 🎓 I’m an Undergraduate at <b>SLIIT</b>
 
-- 💬 Ask me about Web Development
+- 💬 Ask me about <b>Web Development</b>
 
-- 📫 How to reach me charithlakshan97@gmail.com
+- 📫 How to reach me <b>charithlakshan97@gmail.com</b>
 
 <h3 align="left">Certification Badges:</h3>
 <div style='display:flex; align-items:center; gap: 10px;'>
