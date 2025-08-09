@@ -52,7 +52,9 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Charith-01&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  ![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Charith-01&theme=dark&langs_count=10&cache_bust=1)
+
   
   </td>
 </tr>
