@@ -60,6 +60,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
+<br>
 
-<p align='center'>
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="1100" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Charith-01&theme=dracula)](https://github.com/Charith-01/github-profile-trophy)
+
