@@ -10,7 +10,7 @@
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=720&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Sri+Lanka"></h3>
 
 <p align='center'>
-<img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="500" height="500" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="450" height="450" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 </p>
 
 <h3 align="left">About me:</h3>
