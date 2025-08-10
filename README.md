@@ -3,9 +3,15 @@
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Charith Lakshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=charith-01&label=Profile%20views&color=0e75b6&style=flat" alt="charith-01" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charith-01&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Charith-01" style="padding-right:20px;" />
+</p>
 
 <h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=720&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Sri+Lanka"></h3>
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="500" height="500" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+</p>
 
 <h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -13,7 +19,7 @@
 -  🌱 I’m currently learning <b>MERN</b>
 
 - 🎓 I’m an Undergraduate at <b>SLIIT</b>
-
+                                                
 - 💬 Ask me about <b>Web Development</b>
 
 - 📫 How to reach me <b>charithlakshan97@gmail.com</b>
