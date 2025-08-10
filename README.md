@@ -39,9 +39,9 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="left">
-<a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100010492353900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100010492353900" height="30" width="40" /></a>
-<a href="https://www.instagram.com/charith__0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/charith__0/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/db77ceb4-b10f-4c4f-bf0b-890cfebb0c99" /></a>
+<a href="https://github.com/Charith-01" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a391f66d-7f08-4c0e-96e1-ebc5ce11f96d" /></a>
+<a href="https://www.instagram.com/charith__0/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/73bfa8ae-818f-471f-bdb7-2248c52dd8fd" /></a>
 </p>
 <br>
 
