@@ -45,6 +45,7 @@
 </p>
 <br>
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -67,7 +68,6 @@
 </table>
 <!--- stats (end) -->
 <br>
-
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Charith-01&theme=dracula)](https://github.com/Charith-01/github-profile-trophy)
