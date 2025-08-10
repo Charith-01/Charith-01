@@ -42,6 +42,7 @@
 <a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/db77ceb4-b10f-4c4f-bf0b-890cfebb0c99" /></a>
 <a href="https://github.com/Charith-01" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a391f66d-7f08-4c0e-96e1-ebc5ce11f96d" /></a>
 <a href="https://www.instagram.com/charith__0/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/73bfa8ae-818f-471f-bdb7-2248c52dd8fd" /></a>
+<a href="charithlakshan97@gmail.com" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a6a90d35-ca11-49b7-9257-5e208f735103" /></a>
 </p>
 <br>
 
