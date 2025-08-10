@@ -1,5 +1,3 @@
-![Image](https://github.com/user-attachments/assets/f09924a8-9502-4b4f-997a-078883c7cb91)
-
 <h1 align="center">Hi <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 40px>, I'm Charith Lakshan</h1>
 <h3 align="center">Passionate Developer | Tech Explorer</h3>
 
