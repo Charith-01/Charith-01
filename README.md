@@ -54,7 +54,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Charith-01&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Charith-01&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=Charith-01&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
@@ -70,5 +70,7 @@
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Charith-01&theme=dracula)](https://github.com/Charith-01/github-profile-trophy)
+
+
 
 
