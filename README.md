@@ -32,7 +32,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,linux,androidstudio,react,nodejs,mongodb,express,npm,postman,vite,vscode,c,cpp,css,tailwind,eclipse,git,github,html,php,mysql,idea,r,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,androidstudio,react,nodejs,mongodb,express,postman,vite,vscode,c,cpp,tailwind,eclipse,git,github,html,php,mysql,idea,r,figma&theme=dark)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
