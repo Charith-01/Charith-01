@@ -14,11 +14,11 @@
 <h3 align="left">About me:</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
--  🌱 I’m currently learning <b>Spring Boot</b>
+-  🌱 I’m currently learning <b>Python</b>
 
 - 🎓 I’m an Undergraduate at <b>SLIIT</b>
                                                 
-- 💬 Ask me about <b>Web Development</b>
+- 💬 Ask me about <b>Data Science</b>
 
 - 📫 How to reach me <b>charithlakshan97@gmail.com</b>
 
