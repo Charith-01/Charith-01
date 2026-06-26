@@ -218,46 +218,47 @@ Statistical analysis project studying the relationship between athlete motivatio
 
 ## 🛠️ Tech Stack
 
-### 🧠 Data Science & Analytics
+### Data Science & Analytics
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0B132B?style=for-the-badge&logo=python&logoColor=FFD43B" />
-  <img src="https://img.shields.io/badge/R-0B132B?style=for-the-badge&logo=r&logoColor=75AADB" />
-  <img src="https://img.shields.io/badge/SQL-0B132B?style=for-the-badge&logo=sqlite&logoColor=4EA8DE" />
-  <img src="https://img.shields.io/badge/Pandas-0B132B?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-0B132B?style=for-the-badge&logo=numpy&logoColor=4DABF7" />
-  <img src="https://img.shields.io/badge/Matplotlib-0B132B?style=for-the-badge&logo=plotly&logoColor=F9C74F" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-0B132B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=1F2937" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-4DABF7?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
-### 📊 Business Intelligence & Visualization
+### Business Intelligence & Visualization
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-12355B?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-  <img src="https://img.shields.io/badge/Excel-12355B?style=for-the-badge&logo=microsoftexcel&logoColor=21A366" />
-  <img src="https://img.shields.io/badge/Jupyter-12355B?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### 🏢 Data Warehousing & Databases
+### Data Warehousing & Databases
 
 <p>
-  <img src="https://img.shields.io/badge/SQL%20Server-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF233C" />
-  <img src="https://img.shields.io/badge/MySQL-1B4332?style=for-the-badge&logo=mysql&logoColor=00B4D8" />
-  <img src="https://img.shields.io/badge/SSIS-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=74C69D" />
-  <img src="https://img.shields.io/badge/SSAS-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=95D5B2" />
-  <img src="https://img.shields.io/badge/SSDT-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=B7E4C7" />
-  <img src="https://img.shields.io/badge/ETL-1B4332?style=for-the-badge&logo=databricks&logoColor=FF6B35" />
-  <img src="https://img.shields.io/badge/OLAP-1B4332?style=for-the-badge&logo=databricks&logoColor=F9C74F" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSIS-0066B8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSAS-004B8D?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSDT-2B579A?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/OLAP-6A4C93?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-### ⚙️ Development Tools
+### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-3A0CA3?style=for-the-badge&logo=git&logoColor=F1502F" />
-  <img src="https://img.shields.io/badge/GitHub-3A0CA3?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-3A0CA3?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2" />
-  <img src="https://img.shields.io/badge/RStudio-3A0CA3?style=for-the-badge&logo=rstudioide&logoColor=75AADB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" />
 </p>
+
 
 
 ---
@@ -292,21 +293,19 @@ Statistical analysis project studying the relationship between athlete motivatio
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Charith%20Lakshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Charith-01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Charith--01-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Charith--01-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:charithlakshan97@gmail.com">
     <img src="https://img.shields.io/badge/Email-charithlakshan97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <!-- ===================== FOOTER ===================== -->
 
