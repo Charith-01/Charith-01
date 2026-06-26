@@ -55,14 +55,6 @@ class CharithLakshan:
 
 <table>
 <tr>
-<td width="20%" align="center">🧹</td>
-<td width="20%" align="center">📊</td>
-<td width="20%" align="center">📈</td>
-<td width="20%" align="center">🏢</td>
-<td width="20%" align="center">🧠</td>
-</tr>
-
-<tr>
 <td align="center"><b>Data Cleaning</b></td>
 <td align="center"><b>Data Analysis</b></td>
 <td align="center"><b>BI Dashboards</b></td>
