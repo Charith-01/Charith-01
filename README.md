@@ -1,76 +1,326 @@
-<h1 align="center">Hi <img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 40px>, I'm Charith Lakshan</h1>
-<h3 align="center">Passionate Developer | Tech Explorer</h3>
+<!-- ===================== PROFILE HEADER ===================== -->
+
+<h1 align="center">Hi 👋, I'm Charith Lakshan</h1>
+
+<h3 align="center">
+  Data Science Undergraduate | BI & Analytics Enthusiast | Python Learner
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charith-01&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Charith-01" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=Charith-01&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align = "center"><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=21&center=true&vCenter=true&width=720&height=100&lines=A+Student+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%8E%93+and+a+Programming+Enthusiast+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+from+Sri+Lanka"></h3>
-
-<p align='center'>
-<img src="https://github.com/user-attachments/assets/a4a1d3ba-750e-4ce1-ae42-a6a5096b08e5" width="400" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-</p>
-
-<h3 align="left">About me:</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
--  🌱 I’m currently learning <b>Python</b>
-
-- 🎓 I’m an Undergraduate at <b>SLIIT</b>
-                                                
-- 💬 Ask me about <b>Data Science</b>
-
-- 📫 How to reach me <b>charithlakshan97@gmail.com</b>
-
-<h3 align="left">Certification Badges:</h3>
-<div style='display:flex; align-items:center; gap: 10px;'>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<a href="https://api.badgr.io/public/assertions/EohJjjVSSoGH1w1-a7GaIA?identity__email=it23841086%40my.sliit.lk">
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/Postman%20White.png" width="100px" height="100px" />
-</div>
-
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,kotlin,androidstudio,react,nodejs,mongodb,express,postman,vite,vscode,c,cpp,tailwind,eclipse,git,github,html,php,mysql,idea,r,figma&theme=dark)](https://skillicons.dev)
-
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="left">
-<a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/db77ceb4-b10f-4c4f-bf0b-890cfebb0c99" /></a>
-<a href="https://github.com/Charith-01" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a391f66d-7f08-4c0e-96e1-ebc5ce11f96d" /></a>
-<a href="https://www.instagram.com/charith__0/" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/73bfa8ae-818f-471f-bdb7-2248c52dd8fd" /></a>
-<a href="charithlakshan97@gmail.com" target="blank"><img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/a6a90d35-ca11-49b7-9257-5e208f735103" /></a>
-</p>
-<br>
-
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Charith-01&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://nirzak-streak-stats.vercel.app/?user=Charith-01&theme=dark&hide_border=false" /> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=80&lines=Turning+Data+into+Insights;Building+Projects+with+Python+%26+Power+BI;Data+Cleaning+%7C+Analytics+%7C+Dashboards;Learning+Everyday+to+Become+a+Data+Scientist" />
+</p>
+
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+```python
+class CharithLakshan:
+    identity = "Data Science Undergraduate"
+    mindset = "Curious, practical, and detail-focused"
+
+    i_like_to_build = [
+        "dashboards that explain data clearly",
+        "data pipelines that turn raw data into usable outputs",
+        "analysis reports that support better decisions",
+        "small ML experiments that solve real problems"
+    ]
+
+    how_i_think = {
+        "before_analysis": "understand the problem",
+        "during_analysis": "clean, question, compare, visualize",
+        "after_analysis": "explain insights in a simple way"
+    }
+
+    current_direction = [
+        "Business Intelligence",
+        "Data Warehousing",
+        "Data Analytics",
+        "Machine Learning Foundations"
+    ]
+```
+
+---
+
+<!-- ===================== FOCUS AREAS ===================== -->
+
+## 🎯 My Focus Areas
+
+<table>
+<tr>
+<td width="20%" align="center">🧹</td>
+<td width="20%" align="center">📊</td>
+<td width="20%" align="center">📈</td>
+<td width="20%" align="center">🏢</td>
+<td width="20%" align="center">🧠</td>
+</tr>
+
+<tr>
+<td align="center"><b>Data Cleaning</b></td>
+<td align="center"><b>Data Analysis</b></td>
+<td align="center"><b>BI Dashboards</b></td>
+<td align="center"><b>Data Warehousing</b></td>
+<td align="center"><b>Machine Learning</b></td>
+</tr>
+
+<tr>
+<td align="center">
+Preparing messy datasets by handling missing values, duplicates, invalid records, and inconsistent formats
 </td>
 
-<td width="50%" align="center">
+<td align="center">
+Finding trends, patterns, relationships, and useful insights from structured and unstructured data
+</td>
 
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Charith-01&theme=dark&langs_count=10&cache_bust=1)
+<td align="center">
+Creating interactive dashboards and visual reports using Power BI, Excel, and analytical tools
+</td>
 
-  
-  </td>
+<td align="center">
+Designing ETL workflows, dimensional models, OLAP cubes, and structured reporting solutions
+</td>
+
+<td align="center">
+Learning model building, feature engineering, performance evaluation, and prediction workflows
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📊 Global AI & Data Science Skills and Salary Trends Dashboard</h3>
+
+<p>
+Data analytics and visualization project focused on global AI and data science job market trends.
+</p>
+
+<h4>Highlights</h4>
+
+<ul>
+  <li>Analyzed AI and data science job market trends</li>
+  <li>Explored in-demand skills and salary patterns</li>
+  <li>Generated charts and processed analysis tables</li>
+  <li>Built a Power BI dashboard for visual insights</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+<p>
+  <code>Python</code>
+  <code>Jupyter Notebook</code>
+  <code>Pandas</code>
+  <code>Matplotlib</code>
+  <code>Power BI</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🧪 Data Quality Monitoring System</h3>
+
+<p>
+Automated data quality monitoring system for checking data integrity and reliability.
+</p>
+
+<h4>Highlights</h4>
+
+<ul>
+  <li>Detected missing values and duplicate records</li>
+  <li>Applied data validation rules</li>
+  <li>Generated automated data quality reports</li>
+  <li>Built a Streamlit dashboard for monitoring</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+<p>
+  <code>Python</code>
+  <code>Pandas</code>
+  <code>Streamlit</code>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛢️ Oil Pipeline Accident & Loss Analytics Data Warehouse</h3>
+
+<p>
+End-to-end data warehousing and BI solution for analyzing oil pipeline accidents, financial losses, and operational trends.
+</p>
+
+<h4>Highlights</h4>
+
+<ul>
+  <li>Designed a SQL Server data warehouse</li>
+  <li>Created ETL workflows using SSIS</li>
+  <li>Built dimensional models and OLAP cubes</li>
+  <li>Created Power BI and Excel reports</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+<p>
+  <code>SQL Server</code>
+  <code>SSIS</code>
+  <code>SSAS</code>
+  <code>SSDT</code>
+  <code>Excel</code>
+  <code>Power BI</code>
+  <code>SQL</code>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🏃 Athlete Motivation & Performance Analysis</h3>
+
+<p>
+Statistical analysis project studying the relationship between athlete motivation and performance.
+</p>
+
+<h4>Highlights</h4>
+
+<ul>
+  <li>Cleaned and prepared the dataset</li>
+  <li>Performed exploratory data analysis</li>
+  <li>Conducted hypothesis testing</li>
+  <li>Applied regression analysis and interpreted results</li>
+</ul>
+
+<h4>Tech Stack</h4>
+
+<p>
+  <code>R</code>
+  <code>RStudio</code>
+  <code>Statistical Modeling</code>
+  <code>Regression Analysis</code>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Tech Stack
+
+### 🧠 Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0B132B?style=for-the-badge&logo=python&logoColor=FFD43B" />
+  <img src="https://img.shields.io/badge/R-0B132B?style=for-the-badge&logo=r&logoColor=75AADB" />
+  <img src="https://img.shields.io/badge/SQL-0B132B?style=for-the-badge&logo=sqlite&logoColor=4EA8DE" />
+  <img src="https://img.shields.io/badge/Pandas-0B132B?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-0B132B?style=for-the-badge&logo=numpy&logoColor=4DABF7" />
+  <img src="https://img.shields.io/badge/Matplotlib-0B132B?style=for-the-badge&logo=plotly&logoColor=F9C74F" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-0B132B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+</p>
+
+### 📊 Business Intelligence & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-12355B?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://img.shields.io/badge/Excel-12355B?style=for-the-badge&logo=microsoftexcel&logoColor=21A366" />
+  <img src="https://img.shields.io/badge/Jupyter-12355B?style=for-the-badge&logo=jupyter&logoColor=F37626" />
+</p>
+
+### 🏢 Data Warehousing & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=EF233C" />
+  <img src="https://img.shields.io/badge/MySQL-1B4332?style=for-the-badge&logo=mysql&logoColor=00B4D8" />
+  <img src="https://img.shields.io/badge/SSIS-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=74C69D" />
+  <img src="https://img.shields.io/badge/SSAS-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=95D5B2" />
+  <img src="https://img.shields.io/badge/SSDT-1B4332?style=for-the-badge&logo=microsoftsqlserver&logoColor=B7E4C7" />
+  <img src="https://img.shields.io/badge/ETL-1B4332?style=for-the-badge&logo=databricks&logoColor=FF6B35" />
+  <img src="https://img.shields.io/badge/OLAP-1B4332?style=for-the-badge&logo=databricks&logoColor=F9C74F" />
+</p>
+
+### ⚙️ Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-3A0CA3?style=for-the-badge&logo=git&logoColor=F1502F" />
+  <img src="https://img.shields.io/badge/GitHub-3A0CA3?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-3A0CA3?style=for-the-badge&logo=visualstudiocode&logoColor=22A7F2" />
+  <img src="https://img.shields.io/badge/RStudio-3A0CA3?style=for-the-badge&logo=rstudioide&logoColor=75AADB" />
+</p>
+
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GitHub Insights
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Charith-01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" />
+
 <br>
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Charith-01&theme=dracula)](https://github.com/Charith-01/github-profile-trophy)
+<img src="https://streak-stats.demolab.com?user=Charith-01&theme=tokyonight&hide_border=true" width="100%" />
 
+</td>
 
+<td width="50%" align="center" valign="middle">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charith-01&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="100%" />
 
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Charith%20Lakshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/Charith-01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Charith--01-181717?style=for-the-badge&logo=github" />
+  </a>
+
+  <a href="mailto:charithlakshan97@gmail.com">
+    <img src="https://img.shields.io/badge/Email-charithlakshan97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <i>"Behind every dataset, there is a story waiting to be discovered."</i>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
