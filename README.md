@@ -1,18 +1,19 @@
 <!-- ===================== PROFILE HEADER ===================== -->
 
-<h1 align="center">Hi 👋, I'm Charith Lakshan</h1>
+<div align="center">
 
-<h3 align="center">
+<h1>Hi 👋, I'm Charith Lakshan</h1>
+
+<h3>
   Data Science Undergraduate | BI & Analytics Enthusiast | Python Learner
 </h3>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=Charith-01&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=80&lines=Turning+Data+into+Insights;Building+Projects+with+Python+%26+Power+BI;Data+Cleaning+%7C+Analytics+%7C+Dashboards;Learning+Everyday+to+Become+a+Data+Scientist" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=80&lines=Cleaning+Data+%E2%86%92+Finding+Patterns+%E2%86%92+Building+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Warehousing;Dashboards%2C+Reports%2C+Analytics+%26+Decision+Support;Learning+Everyday+to+Grow+as+a+Data+Professional" />
+</div>
 
 ---
 
