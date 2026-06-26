@@ -5,7 +5,7 @@
 <h1>Hi 👋, I'm Charith Lakshan</h1>
 
 <h3>
-  Data Science Undergraduate | BI & Analytics Enthusiast | Python Learner
+  Data Science Undergraduate | BI & Analytics Enthusiast
 </h3>
 
 <p>
