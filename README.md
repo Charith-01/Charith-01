@@ -309,9 +309,5 @@ Statistical analysis project studying the relationship between athlete motivatio
 <!-- ===================== FOOTER ===================== -->
 
 <p align="center">
-  <i>"Behind every dataset, there is a story waiting to be discovered."</i>
-</p>
-
-<p align="center">
   ⭐ Thanks for visiting my GitHub profile!
 </p>
