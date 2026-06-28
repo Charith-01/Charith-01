@@ -49,44 +49,6 @@ class CharithLakshan:
 
 ---
 
-<!-- ===================== FOCUS AREAS ===================== -->
-
-## 🎯 My Focus Areas
-
-<table>
-<tr>
-<td align="center"><b>Data Cleaning</b></td>
-<td align="center"><b>Data Analysis</b></td>
-<td align="center"><b>BI Dashboards</b></td>
-<td align="center"><b>Data Warehousing</b></td>
-<td align="center"><b>Machine Learning</b></td>
-</tr>
-
-<tr>
-<td align="center">
-Preparing messy datasets by handling missing values, duplicates, invalid records, and inconsistent formats
-</td>
-
-<td align="center">
-Finding trends, patterns, relationships, and useful insights from structured and unstructured data
-</td>
-
-<td align="center">
-Creating interactive dashboards and visual reports using Power BI, Excel, and analytical tools
-</td>
-
-<td align="center">
-Designing ETL workflows, dimensional models, OLAP cubes, and structured reporting solutions
-</td>
-
-<td align="center">
-Learning model building, feature engineering, performance evaluation, and prediction workflows
-</td>
-</tr>
-</table>
-
----
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
