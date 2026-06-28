@@ -30,7 +30,7 @@ class CharithLakshan:
         "dashboards that explain data clearly",
         "data pipelines that turn raw data into usable outputs",
         "analysis reports that support better decisions",
-        "small ML experiments that solve real problems"
+        "ML experiments that solve real problems"
     ]
 
     how_i_think = {
