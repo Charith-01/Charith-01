@@ -105,17 +105,29 @@ class CharithLakshan:
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Charith-01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="100%" />
+<img
+  src="https://github-readme-stats.shion.dev/api?username=Charith-01&theme=tokyonight&show_icons=true&hide_border=true"
+  width="100%"
+  alt="Charith's GitHub statistics"
+/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com?user=Charith-01&theme=tokyonight&hide_border=true" width="100%" />
+<img
+  src="https://streak-stats.demolab.com?user=Charith-01&theme=tokyonight&hide_border=true"
+  width="100%"
+  alt="Charith's GitHub contribution streak"
+/>
 
 </td>
 
 <td width="50%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charith-01&theme=tokyonight&layout=compact&hide_border=true&langs_count=8" width="100%" />
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=Charith-01&theme=tokyonight&layout=compact&hide_border=true&langs_count=8"
+  width="100%"
+  alt="Charith's most-used languages"
+/>
 
 </td>
 </tr>
