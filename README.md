@@ -24,7 +24,6 @@
 ```python
 class CharithLakshan:
     identity = "Data Science Undergraduate"
-    mindset = "Curious, practical, and detail-focused"
 
     i_like_to_build = [
         "dashboards that explain data clearly",
@@ -32,12 +31,6 @@ class CharithLakshan:
         "analysis reports that support better decisions",
         "ML experiments that solve real problems"
     ]
-
-    how_i_think = {
-        "before_analysis": "understand the problem",
-        "during_analysis": "clean, question, compare, visualize",
-        "after_analysis": "explain insights in a simple way"
-    }
 
     current_direction = [
         "Business Intelligence",
