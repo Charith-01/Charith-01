@@ -8,39 +8,8 @@
   Data Science Undergraduate | BI & Analytics Enthusiast
 </h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Charith-01&label=Profile%20Views&color=00b4d8&style=for-the-badge" alt="Profile Views" />
-</p>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=80&lines=Cleaning+Data+%E2%86%92+Finding+Patterns+%E2%86%92+Building+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Warehousing;Dashboards%2C+Reports%2C+Analytics+%26+Decision+Support;" />
 </div>
-
----
-
-<!-- ===================== ABOUT ME ===================== -->
-
-## 👨‍💻 About Me
-
-```python
-class CharithLakshan:
-    identity = "Data Science Undergraduate"
-
-    i_like_to_build = [
-        "dashboards that explain data clearly",
-        "data pipelines that turn raw data into usable outputs",
-        "analysis reports that support better decisions",
-        "ML experiments that solve real problems"
-    ]
-
-    current_direction = [
-        "Business Intelligence",
-        "Data Warehousing",
-        "Data Analytics",
-        "Machine Learning Foundations"
-    ]
-```
-
----
 
 <!-- ===================== TECH STACK ===================== -->
 
@@ -144,10 +113,4 @@ class CharithLakshan:
   <a href="mailto:charithlakshan97@gmail.com">
     <img src="https://img.shields.io/badge/Email-charithlakshan97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-
-<p align="center">
-  ⭐ Thanks for visiting my GitHub profile!
 </p>
