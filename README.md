@@ -7,8 +7,6 @@
 <h3>
   Data Science Undergraduate | BI & Analytics Enthusiast
 </h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00B4D8&center=true&vCenter=true&width=900&height=80&lines=Cleaning+Data+%E2%86%92+Finding+Patterns+%E2%86%92+Building+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Data+Warehousing;Dashboards%2C+Reports%2C+Analytics+%26+Decision+Support;" />
 </div>
 
 <!-- ===================== TECH STACK ===================== -->
@@ -94,23 +92,3 @@
 </td>
 </tr>
 </table>
-
----
-
-<!-- ===================== CONNECT ===================== -->
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/charith-lakshan-6724b72b2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Charith%20Lakshan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Charith-01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Charith--01-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:charithlakshan97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-charithlakshan97%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
